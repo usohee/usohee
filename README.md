@@ -1,5 +1,5 @@
 ## Hi there 👋 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titan+One&color=fdd7d5&size=33&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&multiline=true&letterSpacing=1pt&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=1000&lines=Welcome+to+my+GitHub!+[![seukeulinsyas-2026-03-13-142130.png](https://i.postimg.cc/Njj8z4mV/seukeulinsyas-2026-03-13-142130.png)](https://postimg.cc/D8RbW1Cd)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titan+One&color=fdd7d5&size=33&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&multiline=true&letterSpacing=1pt&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=1000&lines=Welcome+to+my+GitHub!+https://postimg.cc/D8RbW1Cd" alt="Typing SVG" /></a>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{usohee}"/>
