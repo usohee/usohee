@@ -5,13 +5,13 @@
   <img src="https://render.gitanimals.org/farms/{usohee}"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoosohee&show_icons=false&theme=flag-india&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosohee&layout=compact&hide=jupyter%20notebook)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usohee&show_icons=false&theme=flag-india&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usohee&layout=compact&hide=jupyter%20notebook)
 
 
 
 <!--
-**yoosohee/yoosohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**usohee/usohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
