@@ -1,7 +1,17 @@
-## Hi there 👋
+## Hi there 👋 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titan+One&color=ff8f1c&size=33&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&multiline=true&letterSpacing=1pt&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=1000&lines=Welcome+to+my+GitHub!+%F0%9F%90%A3%F0%9F%92%95" alt="Typing SVG" /></a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{yoosohee}"/>
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoosohee&show_icons=false&theme=flag-india&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosohee&layout=compact&hide=jupyter%20notebook)
+
+
 
 <!--
-**usohee/usohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yoosohee/yoosohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
