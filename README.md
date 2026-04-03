@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=0:EEFF00&height=300&section=header&text=sohee's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=#B897FF&height=300&section=header&text=sohee's%20Github&fontSize=90" />
 
 
 <a href="https://github.com/devxb/gitanimals">
