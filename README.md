@@ -1,13 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFE0E8&height=300&section=header&text=sohee's%20Github&fontSize=90&fontColor=241A1A" />
 
-<div align="center">
-  <a href="https://github.com/metleeha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=dracula" width="49%">
-  </a>
-  <a href="https://github.com/metleeha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=dracula" width="49%">
-  </a>
-</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usohee)](https://github.com/anuraghazra/github-readme-stats)
