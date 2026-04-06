@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 성장하는 것을 꾸준히 꿈꾸는 개발자입니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 꾸준히 성장하는 것을 꿈꾸는 개발자 유소희입니다. </div> 
     </div>
     
 ## 🧑‍💻 Contact me
