@@ -45,6 +45,7 @@
       <br><br>
       <a href="">
         <img src="https://img.shields.io/badge/Notion%20Portfolio-332b24?style=for-the-badge&logo=notion&logoColor=ffe5ed">
+        <sub>기록하며 성장하는 공간</sub>
       </a>
     </td>
   </tr>
