@@ -53,7 +53,7 @@
 
 ## 📊 My Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usohee&theme=custom&background=ffffff&fire=ffb6c1&ring=332b24&currStreakNum=332b24&sideNums=332b24&sideLabels=332b24&dates=332b24&stroke=332b24&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usohee&theme=custom&background=ffffff&fire=ffb6c1&ring=332b24&currStreakNum=ffffff&sideNums=332b24&sideLabels=332b24&dates=332b24&stroke=332b24&hide_border=true" />
 </div>
 
 <br>
