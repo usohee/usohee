@@ -20,9 +20,8 @@
 ## 🛠 Tech Stacks
 ### 🎨 Frontend
 <p>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,mysql,git,notion" />
-</div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
 </p>
 
 ### 🤖 AI & Data (Majoring)
