@@ -68,9 +68,3 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=본인백준ID" />
-</div>
