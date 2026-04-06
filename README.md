@@ -20,24 +20,24 @@
 ## 🛠 Tech Stacks
 ### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-ffe5ed?style=for-the-badge&logo=html5&logoColor=332b24">
+  <img src="https://img.shields.io/badge/CSS3-ffe5ed?style=for-the-badge&logo=css3&logoColor=332b24">
+  <img src="https://img.shields.io/badge/JavaScript-ffe5ed?style=for-the-badge&logo=javascript&logoColor=332b24">
+  <img src="https://img.shields.io/badge/React-ffe5ed?style=for-the-badge&logo=react&logoColor=332b24">
 </p>
 
-### 🤖 AI & Data (Majoring)
+### 🤖 AI & Data
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-ffe5ed?style=for-the-badge&logo=python&logoColor=332b24">
+  <img src="https://img.shields.io/badge/OpenCV-ffe5ed?style=for-the-badge&logo=opencv&logoColor=332b24">
+  <img src="https://img.shields.io/badge/MySQL-ffe5ed?style=for-the-badge&logo=mysql&logoColor=332b24">
 </p>
 
 ### 🔧 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-ffe5ed?style=for-the-badge&logo=git&logoColor=332b24">
+  <img src="https://img.shields.io/badge/Notion-ffe5ed?style=for-the-badge&logo=notion&logoColor=332b24">
+  <img src="https://img.shields.io/badge/Zapier-ffe5ed?style=for-the-badge&logo=zapier&logoColor=332b24">
 </p>
 
 <br>
