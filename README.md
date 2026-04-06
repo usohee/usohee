@@ -38,20 +38,17 @@
       <img src="https://img.shields.io/badge/Notion-ffe5ed?style=flat&logo=notion&logoColor=332b24">
       <img src="https://img.shields.io/badge/Zapier-ffe5ed?style=flat&logo=zapier&logoColor=332b24">
     </td>
-   <td align="center" valign="middle" width="250">
-  <a href="https://velog.io/@scy512" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/My%20Velog-332b24?style=for-the-badge&logo=velog&logoColor=ffe5ed">
-    <br>
-    <span style="color: #332b24; text-decoration: none; font-size: 13px; font-weight: bold;">기록하며 성장하는 공간</span>
-  </a>
-  <br><br>
-  <a href="https://www.notion.so/8cea84979a8b4204a14c540e97fa3dc3">
-    <img src="https://img.shields.io/badge/Notion%20Portfolio-332b24?style=for-the-badge&logo=notion&logoColor=ffe5ed">
-  </a>
-</td>
+    <td align="center" valign="middle" width="250">
+      <a href="">
+        <img src="https://img.shields.io/badge/My%20Velog-332b24?style=for-the-badge&logo=velog&logoColor=ffe5ed">
+      </a>
+      <br><br>
+      <a href="">
+        <img src="https://img.shields.io/badge/Notion%20Portfolio-332b24?style=for-the-badge&logo=notion&logoColor=ffe5ed"> 
+      </a>
+    </td>
   </tr>
 </table>
-<br>
 
 ## 🚀 Projects
 ### 🧴 AI Skin Analysis Service (In Progress)
