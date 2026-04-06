@@ -21,7 +21,7 @@
 
 <table border="0">
   <tr>
-    <td align="left" width="750">
+    <td align="left" width="700">
       <strong>🎨 Frontend</strong><br>
       <img src="https://img.shields.io/badge/HTML5-ffe5ed?style=flat&logo=html5&logoColor=332b24">
       <img src="https://img.shields.io/badge/CSS3-ffe5ed?style=flat&logo=css3&logoColor=332b24">
@@ -40,13 +40,15 @@
     </td>
     <td align="center" valign="middle" width="350">
       <a href="">
-        <img src="https://img.shields.io/badge/My%20Velog-332b24?style=for-the-badge&logo=velog&logoColor=ffe5ed"><br>
-        <sub>기록하며 성장하는 공간</sub>
+        <img src="https://img.shields.io/badge/My%20Velog-332b24?style=for-the-badge&logo=velog&logoColor=ffe5ed">
+      </a>
+      <br><br>
+      <a href="">
+        <img src="https://img.shields.io/badge/Notion%20Portfolio-332b24?style=for-the-badge&logo=notion&logoColor=ffe5ed">
       </a>
     </td>
   </tr>
 </table>
-
 <br>
 
 ## 🚀 Projects
