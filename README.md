@@ -1,6 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFE0E8&height=300&section=header&text=sohee's%20Github&fontSize=90&fontColor=241A1A" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usohee)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usohee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **usohee/usohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
