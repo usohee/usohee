@@ -8,7 +8,7 @@
     
 ## 🧑‍💻 Contact me
 <div align="center">
-  <a href="(https://www.notion.so/8cea84979a8b4204a14c540e97fa3dc3)">
+  <a href="https://www.notion.so/8cea84979a8b4204a14c540e97fa3dc3">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   <a href="본인벨로그링크">
