@@ -53,8 +53,8 @@
 
 ## 📊 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브ID&show_icons=true&theme=rose&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인깃허브ID&theme=rose&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usoheeID&show_icons=true&theme=rose&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usohee&theme=rose&hide_border=true" />
 </div>
 
 <br>
