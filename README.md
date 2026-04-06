@@ -21,23 +21,23 @@
 ### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-ffe5ed?style=flat&logo=html5&logoColor=332b24">
-  <img src="https://img.shields.io/badge/CSS3-ffe5ed?style=for-the-badge&logo=css3&logoColor=332b24">
-  <img src="https://img.shields.io/badge/JavaScript-ffe5ed?style=for-the-badge&logo=javascript&logoColor=332b24">
-  <img src="https://img.shields.io/badge/React-ffe5ed?style=for-the-badge&logo=react&logoColor=332b24">
+  <img src="https://img.shields.io/badge/CSS3-ffe5ed?style=flat&logo=css3&logoColor=332b24">
+  <img src="https://img.shields.io/badge/JavaScript-ffe5ed?style=flat&logo=javascript&logoColor=332b24">
+  <img src="https://img.shields.io/badge/React-ffe5ed?style=flat&logo=react&logoColor=332b24">
 </p>
 
 ### 🤖 AI & Data
 <p>
-  <img src="https://img.shields.io/badge/Python-ffe5ed?style=for-the-badge&logo=python&logoColor=332b24">
-  <img src="https://img.shields.io/badge/OpenCV-ffe5ed?style=for-the-badge&logo=opencv&logoColor=332b24">
-  <img src="https://img.shields.io/badge/MySQL-ffe5ed?style=for-the-badge&logo=mysql&logoColor=332b24">
+  <img src="https://img.shields.io/badge/Python-ffe5ed?style=flat&logo=python&logoColor=332b24">
+  <img src="https://img.shields.io/badge/OpenCV-ffe5ed?style=flat&logo=opencv&logoColor=332b24">
+  <img src="https://img.shields.io/badge/MySQL-ffe5ed?style=flat&logo=mysql&logoColor=332b24">
 </p>
 
 ### 🔧 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-ffe5ed?style=for-the-badge&logo=git&logoColor=332b24">
-  <img src="https://img.shields.io/badge/Notion-ffe5ed?style=for-the-badge&logo=notion&logoColor=332b24">
-  <img src="https://img.shields.io/badge/Zapier-ffe5ed?style=for-the-badge&logo=zapier&logoColor=332b24">
+  <img src="https://img.shields.io/badge/Git-ffe5ed?style=flat&logo=git&logoColor=332b24">
+  <img src="https://img.shields.io/badge/Notion-ffe5ed?style=flat&logo=notion&logoColor=332b24">
+  <img src="https://img.shields.io/badge/Zapier-ffe5ed?style=flat&logo=zapier&logoColor=332b24">
 </p>
 
 <br>
