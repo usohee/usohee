@@ -20,7 +20,7 @@
 ## 🛠 Tech Stacks
 ### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-ffe5ed?style=for-the-badge&logo=html5&logoColor=332b24">
+  <img src="https://img.shields.io/badge/HTML5-ffe5ed?style=flat&logo=html5&logoColor=332b24">
   <img src="https://img.shields.io/badge/CSS3-ffe5ed?style=for-the-badge&logo=css3&logoColor=332b24">
   <img src="https://img.shields.io/badge/JavaScript-ffe5ed?style=for-the-badge&logo=javascript&logoColor=332b24">
   <img src="https://img.shields.io/badge/React-ffe5ed?style=for-the-badge&logo=react&logoColor=332b24">
