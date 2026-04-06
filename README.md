@@ -1,22 +1,76 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe5ed&height=120&text=sohee's%20GITHUB🐣🐣!&animation=fadeIn&fontColor=332b24&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 꾸준히 성장하는 것을 꿈꾸는 개발자 유소희입니다. </div> 
-    </div>
-    
-## 🧑‍💻 Contact me
 <div align="center">
-  <a href="https://www.notion.so/8cea84979a8b4204a14c540e97fa3dc3">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe5ed&height=150&section=header&text=Growing%20Developer%20Sohee!&fontSize=40&animation=fadeIn&fontColor=332b24" />
+</div>
+
+<div align="center">
+  <h3> 👋 안녕하세요! 기록하며 성장하는 개발자 유소희입니다. </h3>
+  <p> "어제보다 나은 오늘의 코드를 짜기 위해 매일 프로그래머스를 항해 중입니다." </p>
+</div>
+
+<br>
+
+## 🧑‍💻 About Me
+- 🎓 **Dongyang Mirae Univ.** AI Software (3rd Year)
+- 🔭 **Focus:** Frontend Development & AI Integration
+- 🎯 **Goal:** 사용자의 일상을 바꾸는 직관적인 웹 서비스를 만드는 것
+- 💌 **Contact:** [rrwnsldj1004@gmail.com]
+
+<br>
+
+## 🛠 Tech Stacks
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
+
+### 🤖 AI & Data (Majoring)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### 🔧 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white">
+</p>
+
+<br>
+
+## 🚀 Projects
+### 🧴 AI Skin Analysis Service (In Progress)
+- **Description:** OpenCV와 YOLOv8을 활용한 피부 진단 및 맞춤형 스킨케어 추천 서비스
+- **Key Role (Algorithm Design):** - OpenCV를 활용한 이미지 전처리 및 특징 추출 로직 설계
+    - YOLOv8 기반 피부 트러블(여드름, 홍조 등) 탐지 모델 학습 및 최적화
+- **Stack:** Python, OpenCV, YOLOv8, PyTorch
+
+<br>
+
+## 📊 My Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브ID&show_icons=true&theme=rose&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인깃허브ID&theme=rose&hide_border=true" />
+</div>
+
+<br>
+
+## 🔗 Link
+<div align="center">
+  <a href="https://www.notion.so/본인노션주소">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
-  <a href="본인벨로그링크">
+  <a href="https://velog.io/@본인벨로그주소">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   </a>
 </div>
 
+<br>
 
-
-## 🏅 Stats
-
+<div align="center">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=본인백준ID" />
+</div>
