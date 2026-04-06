@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/Zapier-ffe5ed?style=flat&logo=zapier&logoColor=332b24">
     </td>
     <td align="center" valign="middle" width="350">
-      <a href="https://velog.io/@scy512">
+      <a href="">
         <img src="https://img.shields.io/badge/My%20Velog-332b24?style=for-the-badge&logo=velog&logoColor=ffe5ed"><br>
         <sub>기록하며 성장하는 공간</sub>
       </a>
