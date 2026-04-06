@@ -13,7 +13,7 @@
 - 🎓 **Dongyang Mirae Univ.** AI Software (3rd Year)
 - 🔭 **Focus:** Frontend Development & AI Integration
 - 🎯 **Goal:** 사용자의 일상을 바꾸는 직관적인 웹 서비스를 만드는 것
-- 💌 **Contact:** [rrwnsldj1004@gmail.com]
+- 💌 **Contact:** rrwnsldj1004@gmail.com
 
 <br>
 
@@ -45,7 +45,7 @@
       <br><br>
       <a href="">
         <img src="https://img.shields.io/badge/Notion%20Portfolio-332b24?style=for-the-badge&logo=notion&logoColor=ffe5ed"> <br>
-        <sub>기록하며 성장하는 공간</sub>
+        기록하며 성장하는 공간
       </a>
     </td>
   </tr>
