@@ -17,28 +17,35 @@
 
 <br>
 
-## 🛠 Tech Stacks
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-ffe5ed?style=flat&logo=html5&logoColor=332b24">
-  <img src="https://img.shields.io/badge/CSS3-ffe5ed?style=flat&logo=css3&logoColor=332b24">
-  <img src="https://img.shields.io/badge/JavaScript-ffe5ed?style=flat&logo=javascript&logoColor=332b24">
-  <img src="https://img.shields.io/badge/React-ffe5ed?style=flat&logo=react&logoColor=332b24">
-</p>
+## 🛠 Tech Stacks & Links
 
-### 🤖 AI & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-ffe5ed?style=flat&logo=python&logoColor=332b24">
-  <img src="https://img.shields.io/badge/OpenCV-ffe5ed?style=flat&logo=opencv&logoColor=332b24">
-  <img src="https://img.shields.io/badge/MySQL-ffe5ed?style=flat&logo=mysql&logoColor=332b24">
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-ffe5ed?style=flat&logo=git&logoColor=332b24">
-  <img src="https://img.shields.io/badge/Notion-ffe5ed?style=flat&logo=notion&logoColor=332b24">
-  <img src="https://img.shields.io/badge/Zapier-ffe5ed?style=flat&logo=zapier&logoColor=332b24">
-</p>
+<table border="0">
+  <tr>
+    <td align="left" width="750">
+      <strong>🎨 Frontend</strong><br>
+      <img src="https://img.shields.io/badge/HTML5-ffe5ed?style=flat&logo=html5&logoColor=332b24">
+      <img src="https://img.shields.io/badge/CSS3-ffe5ed?style=flat&logo=css3&logoColor=332b24">
+      <img src="https://img.shields.io/badge/JavaScript-ffe5ed?style=flat&logo=javascript&logoColor=332b24">
+      <img src="https://img.shields.io/badge/React-ffe5ed?style=flat&logo=react&logoColor=332b24">
+      <br><br>
+      <strong>🤖 AI & Data</strong><br>
+      <img src="https://img.shields.io/badge/Python-ffe5ed?style=flat&logo=python&logoColor=332b24">
+      <img src="https://img.shields.io/badge/OpenCV-ffe5ed?style=flat&logo=opencv&logoColor=332b24">
+      <img src="https://img.shields.io/badge/MySQL-ffe5ed?style=flat&logo=mysql&logoColor=332b24">
+      <br><br>
+      <strong>🔧 Tools</strong><br>
+      <img src="https://img.shields.io/badge/Git-ffe5ed?style=flat&logo=git&logoColor=332b24">
+      <img src="https://img.shields.io/badge/Notion-ffe5ed?style=flat&logo=notion&logoColor=332b24">
+      <img src="https://img.shields.io/badge/Zapier-ffe5ed?style=flat&logo=zapier&logoColor=332b24">
+    </td>
+    <td align="center" valign="middle" width="200">
+      <a href="https://velog.io/@scy512">
+        <img src="https://img.shields.io/badge/My%20Velog-332b24?style=for-the-badge&logo=velog&logoColor=ffe5ed"><br>
+        <sub>기록하며 성장하는 공간</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -57,13 +64,3 @@
 </div>
 
 <br>
-
-## 🔗 Link
-<div align="center">
-  <a href="https://www.notion.so/본인노션주소">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  </a>
-  <a href="https://velog.io/@본인벨로그주소">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-  </a>
-</div>
