@@ -39,11 +39,11 @@
       <img src="https://img.shields.io/badge/Zapier-ffe5ed?style=flat&logo=zapier&logoColor=332b24">
     </td>
     <td align="center" valign="middle" width="350">
-      <a href="">
+      <a href="https://velog.io/@usohee/posts">
         <img src="https://img.shields.io/badge/My%20Velog-332b24?style=for-the-badge&logo=velog&logoColor=ffe5ed">
       </a>
       <br><br>
-      <a href="">
+      <a href="https://www.notion.so/8cea84979a8b4204a14c540e97fa3dc3">
         <img src="https://img.shields.io/badge/Notion%20Portfolio-332b24?style=for-the-badge&logo=notion&logoColor=ffe5ed"> 
       </a>
     </td>
