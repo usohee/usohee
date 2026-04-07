@@ -51,7 +51,7 @@
 </table>
 
 ## 🚀 Projects
-### 🧴 AI Skin Analysis Service (In Progress)
+### 🧴 AI Skin Care Service "Mirror Me" (~ ing)
 - **Description:** OpenCV와 YOLOv8을 활용한 피부 진단 및 맞춤형 스킨케어 추천 서비스
 - **Key Role (Algorithm Design):** - OpenCV를 활용한 이미지 전처리 및 특징 추출 로직 설계
     - YOLOv8 기반 피부 트러블(여드름, 홍조 등) 탐지 모델 학습 및 최적화
