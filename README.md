@@ -57,6 +57,13 @@
     - YOLOv8 기반 피부 트러블(여드름, 홍조 등) 탐지 모델 학습 및 최적화
 - **Stack:** Python, OpenCV, YOLOv8, PyTorch
 
+### 🥷 Naruto Birthday Game: Fire Style Training
+- **Description:** 남자친구의 생일을 축하하기 위해 제작한 픽셀 아트 기반의 나루토 컨셉 웹 미니게임
+- **Key Features:** - **Story Scene:** 영화적 연출을 위한 시차 페이드 인/아웃(Fade-in/out) 시스템 구현
+    - **UI/UX Design:** Figma를 활용한 픽셀 아트 에셋 배치 및 '도트명조' 폰트 최적화
+    - **Interactive Dialog:** 카카시 캐릭터와의 상호작용이 가능한 대화창 및 씬 전환 로직 설계
+- **Stack:** HTML5, CSS3, Vanilla JavaScript, Figma
+
 <br>
 
 ## 💡 My Stats
